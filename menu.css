@@ -1,0 +1,45 @@
+#menu   {
+    position:fixed;
+    left:-110px;
+    top:50px;
+    width:100px;
+    padding:5px;
+    background-color: #DADA;
+}
+
+
+#mbgb    {
+    width:100%;
+    height:auto;
+}
+
+#resetb    {
+    width:100%;  
+    height:auto;      
+}
+
+#hideappb    {
+    width:100%; 
+    height:auto;         
+}
+
+#showappb    {
+    width:100%;
+    height:auto;          
+}
+
+#openb    {
+    position:absolute; 
+    width:50px;
+    height:auto;
+    top:0px;
+    right:-50px;
+}
+
+#closeb    {
+    position:absolute; 
+    width:50px;
+    height:auto;
+    bottom:0px;
+    right:-50px;
+}
